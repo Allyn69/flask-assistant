@@ -9,5 +9,5 @@ jinja2==2.10
 markupsafe==1.1.0
 requests==2.21.0
 ruamel.yaml==0.15.81
-urllib3==1.24.1
+urllib3==1.26.5
 werkzeug==0.14.1
